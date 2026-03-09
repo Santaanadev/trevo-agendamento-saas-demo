@@ -27,7 +27,7 @@ https://templyapp.com.br
 
 🎥 Demonstração do sistema
 
-[https://youtu.be/seuvideo](https://youtu.be/jfVHsjZxKdQ)
+(https://youtu.be/jfVHsjZxKdQ)
 
 ## Funcionalidades
 
