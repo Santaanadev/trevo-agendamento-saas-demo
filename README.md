@@ -25,6 +25,10 @@ Senha: password
 🌐 Demo online  
 https://templyapp.com.br
 
+🎥 Demonstração do sistema
+
+[https://youtu.be/seuvideo](https://youtu.be/jfVHsjZxKdQ)
+
 ## Funcionalidades
 
 - Sistema de agendamento
@@ -43,8 +47,8 @@ https://templyapp.com.br
 
 ## Interface
 
-![Tela inicial](prints/home.png)
-![Painel admin](prints/admin.png)
+![Tela inicial](prints/agendamento.jpg)
+![Painel admin](prints/admin-inicio.jpg)
 
 ## Observação
 
