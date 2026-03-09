@@ -7,10 +7,23 @@ Sistema de agendamento multi-tenant desenvolvido para atender diversos nichos co
 - Salões
 - Prestadores de serviço
 
+## Aviso
+
+⚠️ O sistema ainda está em desenvolvimento.
+
+- O **registro de novas contas** está temporariamente desativado.
+- A **integração com API de pagamento** não está disponível nesta versão pública por questões de privacidade e segurança.
+
+## Acesso para demonstração
+
+Para testar o sistema utilize a conta de demonstração:
+
+Email: admin@test.com  
+Senha: password
 ## Demonstração
 
 🌐 Demo online  
-https://trevoapp.com
+https://templyapp.com.br
 
 ## Funcionalidades
 
