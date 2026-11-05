@@ -14,7 +14,7 @@ Cada negócio ganha uma página própria de agendamento, um painel completo e um
 ![PWA](https://img.shields.io/badge/PWA-push-5a0fc8?style=flat-square&logo=pwa&logoColor=white)
 ![Status](https://img.shields.io/badge/status-em%20produção-2ea44f?style=flat-square)
 
-[Site](https://agendatrevo.com) · [Vídeo](https://youtu.be/jfVHsjZxKdQ) · [Funcionalidades](#funcionalidades) · [Arquitetura](#arquitetura) · [Telas](#telas)
+[Site](https://agendatrevo.com) · [Funcionalidades](#funcionalidades) · [Arquitetura](#arquitetura) · [Telas](#telas)
 
 <br>
 
